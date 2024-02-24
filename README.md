@@ -25,6 +25,7 @@ You need to replace the `apiKey` variable in the JavaScript code with your own W
 
 Cyrus Nourbakhsh
 Contact: osistlk@gmail.com
+Website: [itscyrus.com](http://itscyrus.com)
 
 ## License
 
@@ -33,3 +34,7 @@ This software is released under the MIT License. See the comments in the `index.
 ## Disclaimer
 
 This application is provided as-is, and the data is sourced from the WMATA API. While efforts are made to keep the information accurate and up-to-date, Cyrus Nourbakhsh does not guarantee the accuracy, reliability, or timeliness of the data. This application is not officially affiliated with WMATA.
+
+## Hosting
+
+The website is hosted on Amazon S3. Visit [itscyrus.com](http://itscyrus.com) to view the application.
